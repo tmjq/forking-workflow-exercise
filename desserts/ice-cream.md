@@ -1,4 +1,4 @@
-# Vanilla Ice Cream Recipe
+# Vanilla Ice Cream recipe
 
 ## Ingredients
 - 475 ml heavy cream
